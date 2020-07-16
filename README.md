@@ -1,5 +1,5 @@
-##Introduction
-This is an Instagram-clone where the user can add posts, comment on posts. This instagram clone support authentication.
+# Introduction
+This is an Instagram-clone where the user can add posts, comment on posts. This instagram clone support authentication. A single post comprise of image,caption,avatar,username.
 
 ## Technology Used
 - Firebase
