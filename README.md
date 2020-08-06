@@ -3,7 +3,7 @@ This is an Instagram-clone where the user can add posts, comment on posts. This 
 
 ## Technology Used
 - Firebase
-- React
+- Reactjs
 - Material Ui
 - Flexbox
 - React image embed
